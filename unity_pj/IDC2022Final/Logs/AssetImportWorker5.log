@@ -1,0 +1,22 @@
+Using pre-set license
+Built from '2021.1/china_unity/release' branch; Version is '2021.1.23f1c1 (459f52f28315) revision 4562770'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1889; Version 2009; 64bit' Language: 'zh' Physical Memory: 3971 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\软件\开发工具\unity\2021.1.23f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+E:/Kecin/learn/materials/毕设/unity_pj/IDC2022Final
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+12681
+Successfully changed project path to: E:/Kecin/learn/materials/毕设/unity_pj/IDC2022Final
+E:/Kecin/learn/materials/毕设/unity_pj/IDC2022Final
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 4657.35 ms, found 5 plugins.
